@@ -1,0 +1,5 @@
+[
+  { "keys": ["alt+plus"], "command": "glue_views_add"},
+  { "keys": ["alt+minus"], "command": "glue_views_remove"},
+  { "keys": ["alt+#"], "command": "glue_views_clear"}
+]
